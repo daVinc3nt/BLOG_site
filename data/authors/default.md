@@ -1,10 +1,10 @@
 ---
-name: Tails Azimuth
+name: Tên người viết bài này
 avatar: /static/images/avatar.png
 occupation: Professor of Atmospheric Science
 company: Stanford University
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
+twitter: https:/facebook.com/phamquangviet891/
 linkedin: https://www.linkedin.com
 github: https://github.com
 ---
