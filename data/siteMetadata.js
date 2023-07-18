@@ -1,8 +1,8 @@
 const siteMetadata = {
-  title: 'Our Rainbow',
-  author: 'Our Rainbow',
-  headerTitle: 'Our Rainbow',
-  description: 'Our Rainbow website',
+  title: `Pride's Little World`,
+  author: `Pride's Little World`,
+  headerTitle: `Pride's Little World`,
+  description: `Các bài viết nổi bật`,
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',

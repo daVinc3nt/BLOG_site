@@ -1,16 +1,12 @@
 ---
-name: Tên người viết bài này
+name: Pride's Little World
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
+occupation: Dự án cộng đồng bình đẳng giới
+company: Sinh viên 3 miền Việt Nam
+email: phamquangviet891@gmail.com
 twitter: https:/facebook.com/phamquangviet891/
-linkedin: https://www.linkedin.com
-github: https://github.com
+linkedin: https://www.linkedin.com/phamquangviet891
+github: https://github.com/phamquangviet891
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
-
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Đây là đoạn giới thiệu về dự án
