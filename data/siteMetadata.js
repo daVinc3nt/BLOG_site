@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Our Rainbow',
   author: 'Our Rainbow',
   headerTitle: 'Our Rainbow',
-  description: 'short description',
+  description: 'Our Rainbow website',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
@@ -10,12 +10,12 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
-  github: 'https://github.com',
+  email: 'phamquangviet891@gmail.com',
+  github: 'https://github.com/phamquangviet891',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
+  facebook: 'https://facebook.com/phamquangviet891',
   youtube: 'https://youtube.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/phamquangviet891',
   locale: 'en-US',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
