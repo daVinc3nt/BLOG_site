@@ -1,7 +1,8 @@
 const headerNavLinks = [
-  { href: '/blog', title: 'Trang chủ' },
-  { href: '/tags', title: 'Bài viết' },
-  { href: '/projects', title: 'Hỏi đáp' },
+  { href: '/', title: 'Trang chủ' },
+  { href: '/blog', title: 'Bài viết' },
+  { href: '/tags', title: 'Kiến thức' },
+  { href: '/', title: 'Hỏi đáp' }, // lẽ ra là /projects nhưng tạm thời xóa đã
   { href: '/about', title: 'Liên hệ' },
 ]
 
