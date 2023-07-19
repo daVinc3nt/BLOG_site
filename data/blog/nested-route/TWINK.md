@@ -18,7 +18,7 @@ Thuật ngữ Twink có thể dùng để miêu tả người đồng tính nam 
 
 Việc giới tính hóa không chỉ xúc phạm đến cộng đồng LGBTQ+ mà đâu đó thể hiện tư tưởng bảo thủ, coi thường phụ nữ trong vô thức hoặc cố ý, qua việc cho rằng phụ nữ, hoặc những người nữ tính là những người yếu đuối, phụ thuộc, và không có tiếng nói, hiểu biết,... Bằng chứng là từ các phương tiện truyền thông như phim, ảnh, báo chí đến thực tế, người ta vẫn thường mô tả phụ nữ/ đồng tính nam/ chuyển giới nữ rất nhu nhược, yếu kém hay chanh chua, vớ vẩn,... mà quên mất rằng họ vẫn luôn kiên cường chiến đấu từng ngày để chứng minh năng lực của bản thân, giành lại tiếng nói và địa vị trong xã hội của mình.
 
-![Alt text](../../../public/static/images/avatar.png)
+![Alt text](/static/images/twink/avatar.png)
 
 Ba sọc có chiều rộng bằng nhau trên lá cờ Twink Pride có màu hồng nhạt ở phía trên và màu vàng nhạt ở phía dưới vô cùng nhẹ nhàng và mềm mại. Màu hồng tượng trưng cho sự dịu dàng, mong manh và màu vàng tượng trưng cho sự độc lập. Cặp biểu tượng sao Hỏa đan xen trên sọc trắng ở giữa được sử dụng tượng trưng cho đồng tính nam.
 
