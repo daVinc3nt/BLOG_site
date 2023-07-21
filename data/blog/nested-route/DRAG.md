@@ -18,7 +18,7 @@ Sự thật là Drag không gói gọn trong các khuôn khổ về giới tính
 # **2. Drag bắt nguồn từ đâu?**
 
 Thế kỷ 19 ở phương Tây, phụ nữ vẫn chưa thể tham gia diễn xuất ở các rạp hát. Vì thế hầu hết các vai diễn nữ sẽ phải được thủ vai bởi các diễn viên nam. Drag cũng đã phổ biến từ lâu trong văn hóa Hy Lạp và phát triển hơn trong thời đại của sân khấu kịch Shakespear. William Dorsey Swann (1860-1925) được cho là Drag Queen đầu tiên và là một trong số ít những nhà hoạt động LGBT trong cùng thế hệ.\
-![Alt text](/static/images/DRAG/Swan.png 'William Dorsey Swann')
+![Alt text](/static/images/DRAG/swan.png 'William Dorsey Swann')
 Vào cuối thế kỷ 20, Drag trở thành một phần của cộng đồng LGBTQI+ - lúc này còn đang chịu sự phân biệt đối xử nặng nề. Dần dần, các show diễn Drag trở thành một loại hoạt động chỉ tổ chức về đêm.
 
 # **3. Nghệ thuật Drag ở hiện tại**
