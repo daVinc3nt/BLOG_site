@@ -3,10 +3,10 @@ title: 'VÔ TÍNH LUYẾN ÁI | ASEXUAL'
 date: '2023-6-23'
 tags: ['Xu hướng tính dục', 'Vô tính luyến ái']
 draft: false
-summary: 'Người Vô tính luyến ái (Asexual)** chỉ những người ít hoặc không bị hấp dẫn tình dục, đồng thời không có hoặc ít hấp dẫn tình cảm bởi bất kì ai.'
+summary: 'Người Vô tính luyến ái (Asexual) chỉ những người ít hoặc không bị hấp dẫn tình dục, đồng thời không có hoặc ít hấp dẫn tình cảm bởi bất kì ai.'
 ---
 
-**Người Vô tính luyến ái (Asexual)** chỉ những người ít hoặc không bị hấp dẫn tình dục, đồng thời không có hoặc ít hấp dẫn tình cảm bởi bất kì ai.\
+**Người Vô tính luyến ái (Asexual)** chỉ những người ít hoặc không bị hấp dẫn tình dục, đồng thời không có hoặc ít hấp dẫn tình cảm bởi bất kì ai.
 
 # **1. Định nghĩa:**
 
@@ -14,8 +14,9 @@ Người vô tính hữu ái có thể là nam, nữ, người chuyển giới, 
 
 Giống như bao xu hướng tính dục khác, Vô tính không phải là sự lựa chọn và cũng không phải là một loại bệnh lý. Khác với việc chọn sống độc thân hay kiêng tình dục vì cả hai là hành vi xuất phát từ quan điểm cá nhân hay tôn giáo.
 
-![Alt text](/static/images/AGENDER/Agender_pride_flag.png 'Cờ của cộng đồng vô tính')
-![Alt text](/static/images/AGENDER/Agender_symbol.png 'Biểu tượng phổ biến của Vô giới')
+![Alt text](/static/images/ASEXUAL/Asexual_Pride_Flag.png 'Cờ của cộng đồng vô tính')
+
+![Alt text](/static/images/ASEXUAL/Asexual_spectrum_flag.png 'Biểu tượng phổ biến của Vô giới')
 
 Việc có tham gia vào các hoạt động quan hệ tình dục hay không là phụ vào bản thân của mỗi người, nhưng có một số người vô tính quan hệ tình dục rất nhiều vì những lý do cá nhân như thỏa mãn cộng sự, để sinh con, trải nghiệm thử cảm giác khi quan hệ tình dục như thế nào.
 

@@ -10,7 +10,8 @@ summary: 'Đồng tính luyến ái nam (hay đồng tính nam là) Chỉ nhữn
 
 # **1. Định nghĩa**
 
-Đồng tính nam là người có giới nam, trải nghiệm thu hút về mặt tình cảm/tình dục với giới nam. Sự thu hút này bền vững, khó bị thay đổi và không phải là một lựa chọn.\
+Đồng tính nam là người có giới nam, trải nghiệm thu hút về mặt tình cảm/tình dục với giới nam. Sự thu hút này bền vững, khó bị thay đổi và không phải là một lựa chọn.
+
 ![Alt text](/static/images/GAY/GAY.png 'Cờ tự hào Đồng tính nam (GAY)')
 
 # **2. Giải nghĩa cách gọi**

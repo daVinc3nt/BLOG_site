@@ -10,8 +10,10 @@ Lipstick Lesbian là thuật ngữ miêu tả thể hiện giới của người
 
 # **1. Định nghĩa**
 
-**Lipstick Lesbian** là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), định nghĩa tùy thuộc vào người được hỏi. Thuật ngữ chỉ những người thuộc cộng đồng đồng tính nữ thể hiện đặc điểm nữ tính qua ngoại hình, sở thích, và biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.\
+**Lipstick Lesbian** là thuật ngữ miêu tả thể hiện giới (hoặc bản dạng giới, giới tính), định nghĩa tùy thuộc vào người được hỏi. Thuật ngữ chỉ những người thuộc cộng đồng đồng tính nữ thể hiện đặc điểm nữ tính qua ngoại hình, sở thích, và biểu hiện của các đặc điểm giới tính truyền thống hoặc mối quan hệ cá nhân.
+
 Thuật ngữ Lipstick Lesbian có thể dùng để miêu tả người đồng tính nữ ưa thích việc trang điểm, mặc váy đầm, cao gót,... Trong cách sử dụng phổ biến, thuật ngữ này là thể hiện giới tính nữ của những người phụ nữ song tính (bisexual), hoặc đa dạng hóa các mối quan hệ nữ - nữ giữa những người phụ nữ nữ tính.
+
 ![Alt text](/static/images/LIPSTICK_LESBIAN/Lesbian-Lipstick-Pride-Flag.png 'Cờ tự hào của Lipstick Lesbian')
 
 # **2. Những hiểu lầm thường thấy về Lipstick Lesbian**
@@ -23,8 +25,11 @@ Thuật ngữ chỉ những người đồng tính nữ thích chải chuốt, t
 Thể hiện giới hay bản dạng giới này cũng không hề liên quan đến vai trò tình dục hay thiên hướng lãng mạn, thậm chí là tính cách của họ. Trong mối quan hệ đồng tính, một người Lipstick Lesbian vẫn có thể đóng vai trò như “chồng” hoặc không là gì cả. Việc phân vai trong mối quan hệ yêu đương sẽ không bị ảnh hưởng bởi yếu tố ngoại hình, hay cách họ thể hiện cho mọi người thấy.
 
 Mỗi chúng ta là một ngôi sao sáng trên bầu trời rộng lớn kia, mỗi người sẽ luôn mang trong mình những màu sắc riêng tạo nên một vũ trụ đa sắc, muôn màu. Hãy luôn yêu lấy màu sắc đặc biệt ấy của mình và cả những người bạn xung quanh chúng ta với một góc nhìn rộng mở hơn, thấu hiểu hơn. Chúng tớ - Pride’s Little World hi vọng rằng chúng ta cùng nhau tạo nên một thế giới đa sắc, tràn ngập tình yêu thương!
-**Tham khảo:**\
+
+# **3. Tham khảo:**
+
 [Lipstick Lesbian | LGBTQIA+ Wiki | Fandom](https://lgbtqia.fandom.com/wiki/Twink)\
 [Đồng tính nữ – “gỡ rối” hiểu lầm thường gặp - Vietnam Youth Alliance (vnyouthally.org)](https://vnyouthally.org/dong-tinh-nu-go-roi-hieu-lam-thuong-gap/)\
 [Bear | LGBTQIA+ Wiki | Fandom](https://lgbtqia.fandom.com/wiki/Bear)
+
 **Từ khóa:** Homosexuality; effeminacy; lesbian bottoms; lesbian; Lipstick Lesbian.

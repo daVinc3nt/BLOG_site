@@ -17,12 +17,15 @@ Thuật ngữ Bear có thể dùng để miêu tả người đồng tính to l�
 
 Cờ Bear bao gồm bảy sọc với nhiều sắc thái khác nhau của màu nâu và vàng, với dấu chân gấu màu đen ở góc trái. Màu sắc được thiết kế dựa trên màu lông của các loài gấu khác nhau trong tự nhiên và từ đó tôn vinh sự đa dạng của những người đàn ông có trong cộng đồng “Gấu”, nhấn mạnh nguồn gốc của nó là mặt khác của văn hóa đồng tính nam.\
 Ngoài ra còn có cờ tự hào dành cho các “Gấu” là người chuyển giới hoặc phi nhị nguyên giới:
-![Alt text](/static/images/BEAR/1 'Cờ tự hào của Transgender Bear')
-![Alt text](/static/images/BEAR/2 'Cờ tự hào của Non-binary Bear')
+
+## ![Alt text](/static/images/BEAR/1.png 'Cờ tự hào của Transgender Bear')
+
+![Alt text](/static/images/BEAR/2.png 'Cờ tự hào của Non-binary Bear')
 
 # **2. Phân loại trong thuật ngữ Bear trong văn hóa đồng tính nam**
 
-Vì thuật ngữ Bear là thuật ngữ văn hóa đồng tính nam dùng để miêu tả bản dạng giới, thể hiện giới và giới tính tùy vào các ngữ cảnh khác nhau, nên họ vẫn có những phân loại riêng về đặc điểm ngoại tình để chỉ những “loài gấu” khác nhau trong cộng đồng.\
+Vì thuật ngữ Bear là thuật ngữ văn hóa đồng tính nam dùng để miêu tả bản dạng giới, thể hiện giới và giới tính tùy vào các ngữ cảnh khác nhau, nên họ vẫn có những phân loại riêng về đặc điểm ngoại tình để chỉ những “loài gấu” khác nhau trong cộng đồng.
+
 Tuy nhiên, hãy nhớ rằng, phân loại này dùng để miêu tả đặc điểm nhận dạng điển hình (thể hiện giới) trong cộng đồng Bear, không có nghĩa ai có những tương đồng với miêu tả dưới dây được kết luận là Bear nếu họ không khẳng định như vậy.\
 
 - Cub, younger bears (Gấu con): Những người dưới 30 tuổi, có thân hình nhỏ hơn đa số Bear khác, có cơ bắp rắn chắc, khỏe mạnh.

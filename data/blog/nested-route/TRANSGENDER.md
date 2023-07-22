@@ -10,14 +10,16 @@ Bear là thuật ngữ miêu tả thể hiện giới của người đồng tí
 
 # **1. Định nghĩa**
 
-**Người chuyển giới (transgender)** hay còn gọi là người hoán tính, được định nghĩa là những người cảm thấy không phù hợp với giới tính được chỉ định sau sinh. Người phi nhị nguyên giới (non-binary) và linh hoạt giới (genderfluid) có thể nhận định bản thân là transgender theo định nghĩa trên.\
+**Người chuyển giới (transgender)** hay còn gọi là người hoán tính, được định nghĩa là những người cảm thấy không phù hợp với giới tính được chỉ định sau sinh. Người phi nhị nguyên giới (non-binary) và linh hoạt giới (genderfluid) có thể nhận định bản thân là transgender theo định nghĩa trên.
+
 Cần tránh nhầm lẫn rằng người chưa thực hiện phẫu thuật chuyển giới không phải là người chuyển giới, trên thực tế có rất nhiều người chuyển giới vẫn chưa hoặc không thực hiện phẫu thuật chuyển giới. Và người chuyển giới hoàn toàn có quyền quyết định thực hiện phẫu thuật trên cơ thể mình hoặc không.
 
-![Alt text](/static/images/TWINK/Trans_Pride_Flag.png 'Cờ tự hào của transgender')
+![Alt text](/static/images/TRANSGENDER/Trans_Pride_Flag.png 'Cờ tự hào của transgender')
 
 Quy ước phân loại người chuyển giới:
-**Người chuyển giới nữ (transgender woman hay transwoman):** là người có giới tính khai sinh là “nam”, nhưng nhận thức giới của bản thân là nữ (hay còn gọi chuyển giới nam thành nữ). Người chuyển giới nữ sử dụng đại từ she/her.\
-**Người chuyển giới nam (transgender man hay transguy):** là người có giới tính khai sinh là “nữ”, nhưng nhận thức giới của bản thân là nam (còn gọi chuyển giới nữ thành nam). Người chuyển giới nam sử dụng đại từ he/him.
+
+- **Người chuyển giới nữ (transgender woman hay transwoman):** là người có giới tính khai sinh là “nam”, nhưng nhận thức giới của bản thân là nữ (hay còn gọi chuyển giới nam thành nữ). Người chuyển giới nữ sử dụng đại từ she/her.\
+- **Người chuyển giới nam (transgender man hay transguy):** là người có giới tính khai sinh là “nữ”, nhưng nhận thức giới của bản thân là nam (còn gọi chuyển giới nữ thành nam). Người chuyển giới nam sử dụng đại từ he/him.
 
 # **2. Người chuyển giới và “bức bối giới” (dysphoria)**
 
