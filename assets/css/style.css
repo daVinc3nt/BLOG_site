@@ -1565,6 +1565,15 @@ header{
 
 }
 @media (max-width: 990px){
+  .test{
+    flex-direction: column;
+    transition: all .55s ease;
+    flex-shrink: -2;
+  }
+  .category-card{
+    max-width: 600px;
+    margin: 0 auto;
+  }
   #menu-icon{
       display: block;
   }
